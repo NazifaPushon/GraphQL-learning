@@ -1,0 +1,17 @@
+{
+  "name": "graphql-learning",
+  "version": "1.0.0",
+  "description": "GraphQl learing from web dev simplifed",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Nazifa Mashiat Pushon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  }
+}
